@@ -1,0 +1,6 @@
+[submodule "DGHL"]
+	path = DGHL
+	url = git@github.com:jin-jae/DGHL-Code-Implementation.git
+[submodule "OmniAnomaly"]
+	path = OmniAnomaly
+	url = git@github.com:jin-jae/OmniAnomaly-Code-Implementation.git
